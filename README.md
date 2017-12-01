@@ -5,7 +5,7 @@
 * The MiniPcap V2.0 is on the way,I hope your participation :-)
 
 ## MiniPcap是什么？
-* MiniPcap是一个简易的嗅探器（抓包软件）
+* MiniPcap是一个简易的嗅探器（抓包程式）
 * 我发布的是MiniPcapV1.0版本，它才刚刚起步
 * V2.0正在编写中，希望你能一起参与 :-)
 
