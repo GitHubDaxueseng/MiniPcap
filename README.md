@@ -17,6 +17,6 @@
 * QQ: 1273391194
 
 ##感激
-感谢以下的项目,排名不分先后
+感谢以下的项目
 
 * [jpcap](https://github.com/jpcap/jpcap) 
